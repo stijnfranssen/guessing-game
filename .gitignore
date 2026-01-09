@@ -1,0 +1,8 @@
+# Rust things
+/target
+# Cargo.lock should be ignored for libraries
+Cargo.lock 
+
+
+*.swp
+
